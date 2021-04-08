@@ -23,10 +23,10 @@ np_height_in = np.array(height_in)
 print(np_height_in)
 
 # Convert np_height_in to m: np_height_m
-np_hieight_m = np_height_in * 0.0254
+np_height_m = np_height_in * 0.0254
 
 # Print np_height_m
-print(np_hieight_m)
+print(np_height_m)
 
 
 # height and weight are available as regular lists
